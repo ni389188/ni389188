@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ni389188&theme=tokyonight)
 
 <!--
 **ni389188/ni389188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
